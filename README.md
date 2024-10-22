@@ -22,9 +22,9 @@ To get started with the Public Transport project, follow these steps:
 2. Navigate to the project directory and compile the Java files:
 
     ```bash
-    javac ./event/*java
-    javac ./main/*java
-    javac ./publicTransport/*java
+    javac ./event/*.java
+    javac ./main/*.java
+    javac ./publicTransport/*.java
     ```
 
 3. Run the main application
